@@ -6,4 +6,5 @@ https://arxiv.org/abs/2104.06159
 
 
 MuZero version is here: https://github.com/YuriCat/MuZeroJupyterExample
+
 AlphaZero version is here: https://github.com/YuriCat/AlphaZeroJupyterExample
